@@ -191,6 +191,7 @@
   <ItemGroup>
     <ClInclude Include="CurlEasyHandle.h" />
     <ClInclude Include="FileTransfer.h" />
+    <ClInclude Include="ftpcredentials.h" />
     <ClInclude Include="RemoteFile.h" />
     <ClInclude Include="RemoteDirectory.h" />
     <ClInclude Include="GrowableBuffer.h" />

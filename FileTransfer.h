@@ -1,8 +1,8 @@
 #pragma once
 
+#include "ftpcredentials.h"
 
 constexpr auto FTPSERVER = "ftp://womser-schuetz.diskstation.me/homes/Juergen/";
-constexpr auto FTPCREDENTIALS = "";
 
 // Parser-Token
 constexpr auto MODYFY = "modify=";

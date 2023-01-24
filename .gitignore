@@ -4,3 +4,4 @@
 /.vs/
 *.lyx~
 *.lyx\#
+/ftpcredentials.h

@@ -39,6 +39,9 @@
     <ClInclude Include="FileTransfer.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="ftpcredentials.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GrowableBuffer.cpp">
