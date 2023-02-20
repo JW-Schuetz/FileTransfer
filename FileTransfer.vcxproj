@@ -84,9 +84,9 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
-    <IncludePath>D:\Projekte\Curl\builds\curl_7_88_0\include;$(IncludePath)</IncludePath>
+    <IncludePath>D:\Projekte\Curl\builds\curl_7_88_1\include;$(IncludePath)</IncludePath>
     <CodeAnalysisRuleSet>BasicCorrectnessRules.ruleset</CodeAnalysisRuleSet>
-    <LibraryPath>D:\Projekte\Curl\builds\curl_7_88_0\lib;$(LibraryPath)</LibraryPath>
+    <LibraryPath>D:\Projekte\Curl\builds\curl_7_88_1\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
