@@ -1,0 +1,13 @@
+﻿  FileTransfer.cpp
+  RemoteFile.cpp
+  RemoteDirectory.cpp
+  CurlEasyHandle.cpp
+  GrowableStringBuffer.cpp
+  HostDirectory.cpp
+  GrowableBuffer.cpp
+  ManageDirectories.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 1811 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  FileTransfer.vcxproj -> D:\Projekte\FileTransfer\x64\Release\FileTransfer.exe
