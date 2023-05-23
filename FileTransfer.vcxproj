@@ -79,8 +79,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>D:\Projekte\Curl-7.68.0\builds\libcurl-vc-x86-release-static-ipv6-sspi-winssl\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Projekte\Curl-7.68.0\builds\libcurl-vc-x86-release-static-ipv6-sspi-winssl\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\Projekte\Curl\builds\curl_x64_8_1_1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\Projekte\Curl\builds\curl_x64_8_1_1\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
