@@ -1,10 +1,4 @@
-﻿  Scanning sources for module dependencies...
-  std.compat.ixx
-  std.ixx
-  Compiling...
-  std.ixx
-  std.compat.ixx
-  FileTransfer.cpp
+﻿  FileTransfer.cpp
   RemoteFile.cpp
   RemoteDirectory.cpp
   CurlEasyHandle.cpp
@@ -14,6 +8,6 @@
   ManageDirectories.cpp
   Generating code
   Previous IPDB not found, fall back to full compilation.
-  All 1833 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 1799 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   FileTransfer.vcxproj -> D:\Projekte\FileTransfer\x64\Release\FileTransfer.exe
