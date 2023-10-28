@@ -1,0 +1,18 @@
+﻿  FileTransfer.cpp
+  RemoteFile.cpp
+  RemoteDirectory.cpp
+  CurlEasyHandle.cpp
+  GrowableStringBuffer.cpp
+  HostDirectory.cpp
+  GrowableBuffer.cpp
+  ManageDirectories.cpp
+  Generating Code...
+FileTransfer.obj : error LNK2019: unresolved external symbol curl_global_init referenced in function main
+FileTransfer.obj : error LNK2019: unresolved external symbol curl_global_cleanup referenced in function main
+RemoteFile.obj : error LNK2019: unresolved external symbol curl_easy_setopt referenced in function "public: __cdecl RemoteFile::RemoteFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,long)" (??0RemoteFile@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0J@Z)
+RemoteDirectory.obj : error LNK2001: unresolved external symbol curl_easy_setopt
+RemoteFile.obj : error LNK2019: unresolved external symbol curl_easy_perform referenced in function "public: void __cdecl RemoteFile::GetRemoteFile(void)" (?GetRemoteFile@RemoteFile@@QEAAXXZ)
+RemoteDirectory.obj : error LNK2001: unresolved external symbol curl_easy_perform
+CurlEasyHandle.obj : error LNK2019: unresolved external symbol curl_easy_init referenced in function "public: __cdecl CurlEasyHandle::CurlEasyHandle(void)" (??0CurlEasyHandle@@QEAA@XZ)
+CurlEasyHandle.obj : error LNK2019: unresolved external symbol curl_easy_cleanup referenced in function "public: __cdecl CurlEasyHandle::~CurlEasyHandle(void)" (??1CurlEasyHandle@@QEAA@XZ)
+D:\Projekte\FileTransfer\x64\Debug\FileTransfer.exe : fatal error LNK1120: 6 unresolved externals
